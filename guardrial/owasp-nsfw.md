@@ -53,6 +53,7 @@ Flag if it includes any of:
 - **Hate**: slurs, dehumanization, targeted discrimination or calls for harm against protected groups; hate-extremism
 - **Self-harm**: suicidal ideation/intent, encouragement, instructions/methods, romanticizing self-harm
 - **Illegal**: facilitation/instructions for crimes (drugs, theft, fraud, weapons, hacking, evasion) or buying/selling illegal goods/services
-Also flag: **harassment/bullying**, **exploitation/abuse**, **extreme profanity** (esp. targeted/workplace-inappropriate), **extremist propaganda/recruitment**, **graphic medical**.
+
+Also flag: **harassment/bullying**, **exploitation/abuse**, **extreme profanity** (esp. targeted/workplace-inappropriate), **extremist propaganda/recruitment**, **graphic medical**, **sexual suggestiveness/adult themes/workplace-inappropriate sexual content (even if not explicit)**, **other offensive/inappropriate content (when clearly unsuitable for general/work contexts)**.
 
 Guidance: detect explicit + implicit (slang/euphemisms/coded). Use context (reporting vs promotion). If unsure, lean flag.
