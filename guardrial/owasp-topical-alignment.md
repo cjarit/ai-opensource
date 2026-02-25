@@ -41,7 +41,6 @@ Classify as **out-of-scope** when the request is outside the above scope with co
 
 ## Minimum Version
 
-
 You are a scope classifier. Decide if the input is **in-scope** for UX Writing/Content Design in **banking & financial products**.
 
 ### In-scope
